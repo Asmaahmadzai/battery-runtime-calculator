@@ -1,4 +1,4 @@
-# Java Battery Runtime Calculator
+# Battery Runtime Calculator
 A Java object-oriented programming project that calculates the estimated runtime of a battery-powered device, the number of batteries required for different operating times, and the associated battery costs.
 
 ## Features
